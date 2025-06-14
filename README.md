@@ -12,7 +12,7 @@
 - 🧠 **Local LLM Integration** with [Ollama](https://ollama.com) (supports models like Deepseek R1, LLaMA3, Mistral, Phi3, etc.)
 - 📂 **CSV ingestion** and automatic chunking
 - 🔎 **Semantic search & embeddings** via FAISS or Chroma
-- 💬 **Chat interface** built with React
+- 💬 **Chat interface** built with Streamlit
 - ⚡ **FastAPI backend** for RAG and query orchestration
 - 🔒 Fully private & offline: no external APIs or data sharing
 
