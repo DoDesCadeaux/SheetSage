@@ -24,3 +24,11 @@
 - Quickly extract insights from messy or dense tables
 - Private and secure spreadsheet QA for finance, business, or research
 
+---
+
+## Launch Backend API Service
+
+From the `/backend` folder
+```
+fastapi dev /app/api/api.py
+```
