@@ -32,7 +32,7 @@ Don't forget to add a venv (uv is recommended for FastAPI) and install all packa
 uv pip install -r requirements.txt
 ```
 
-Once venv activated and all packages installed, from the `/backend` folder you can run the server with:
+Once venv activated and all packages installed, you can run the server with:
 ```commandline
-fastapi dev /app/api/api.py
+fastapi dev backend/app/api/api.py
 ```
