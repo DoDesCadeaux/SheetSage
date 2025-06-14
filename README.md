@@ -9,7 +9,7 @@
 
 ## 🚀 Features
 
-- 🧠 **Local LLM Integration** with [Ollama](https://ollama.com) (supports models like LLaMA3, Mistral, Phi3, etc.)
+- 🧠 **Local LLM Integration** with [Ollama](https://ollama.com) (supports models like Deepseek R1, LLaMA3, Mistral, Phi3, etc.)
 - 📂 **CSV ingestion** and automatic chunking
 - 🔎 **Semantic search & embeddings** via FAISS or Chroma
 - 💬 **Chat interface** built with React
