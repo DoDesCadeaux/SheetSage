@@ -27,8 +27,12 @@
 ---
 
 ## Launch Backend API Service
-
-From the `/backend` folder
+Don't forget to add a venv (uv is recommended for FastAPI) and install all packages with
+```commandline
+uv pip install -r requirements.txt
 ```
+
+Once venv activated and all packages installed, from the `/backend` folder you can run the server with:
+```commandline
 fastapi dev /app/api/api.py
 ```
